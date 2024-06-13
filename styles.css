@@ -1,6 +1,6 @@
 /* Base styles for the body */
 body {
-  background-image: url('image/cake.jpg');
+  background-image: url('cake.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed; /* Keeps background fixed on scroll */
